@@ -1,17 +1,83 @@
-## Hi there 👋
+# Hi, I'm YetAnotherFactsEnjoyer
 
-**Junior Dev at Epitech Technology**
+Junior developer at **Epitech Technology** 🇫🇷
+💻 **Solo fullstack developer** building web & mobile applications
 
-<p align="center">
-  <img alt="Arch" src="https://img.icons8.com/?size=100&id=7seppVX8x2nf&format=png&color=000000" height="50" />
-  <img alt="C" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="50" />
-  <img alt="Rust" src="https://img.icons8.com/?size=100&id=U41Than0pWOW&format=png&color=FF4D00" height="50" />
-  <img alt="JavaScript" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" height="50" />
-  <img alt="Git" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" height="50" />
-  <img alt="HTML" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="50" />
-  <img alt="CSS" src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" height="50" />
-  <img alt="SQL" src="https://img.icons8.com/?size=100&id=RO6Tm3NdrSGE&format=png&color=000000" height="50" />
-  <img alt="Symfony" src="https://cdn.worldvectorlogo.com/logos/symfony.svg" height="50" />
-  <img alt="Twig" src="https://www.svgrepo.com/show/374142/twig.svg" height="50" />
-  <img alt="Bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="50" />
-</p>
+---
+
+## 🧠 About Me
+
+* ⚙️ Strong interest in **systems programming** (C, C++, Rust)
+* 🌐 Building **fullstack applications** with modern stacks
+* 🧩 Working solo on real-world projects from backend to frontend
+* 🚀 Currently developing **2 fullstack applications**
+
+---
+
+## ⚙️ Tech Stack
+
+### 🧬 Languages
+
+`C` `C++` `Rust` `TypeScript` `JavaScript` `Java` `SQL`
+
+### 🌐 Fullstack
+
+* **Frontend:** `React` `TypeScript` `Tailwind`
+* **Backend:** `Java` `Spring Boot`
+* **Database:** `PostgreSQL`
+
+### 🛠️ Tools & Environment
+
+`Git` `Linux` `Arch Linux`
+
+---
+
+## 🚀 Current Projects
+
+### 🔧 Fullstack App #1
+
+* Java + Spring Boot backend
+* PostgreSQL database
+* React + TypeScript + Tailwind frontend
+
+### 📱 Fullstack App #2
+
+* Same stack, focused on improving architecture & scalability
+* Built as a **solo developer (design → backend → frontend)**
+
+---
+
+## 🧪 Featured Projects (School & Personal)
+
+### MY_FTP
+
+Custom FTP server in C
+
+### Wolf3D
+
+Raycasting engine / graphics project in C
+
+### nanotekspice
+
+Logic circuit simulator in C++
+
+### EpyTodo
+
+Web application using Symfony ecosystem
+
+### Rust-Learning
+
+Exploration of Rust through hands-on projects
+
+---
+
+## 🎯 What I'm Focused On
+
+* Writing **clean, maintainable fullstack code**
+* Improving **backend architecture & API design**
+* Going deeper into **Rust and low-level systems**
+* Building **complete, production-ready applications**
+
+## 📡 Contact
+
+Feel free to explore my repositories or reach out.
