@@ -43,7 +43,7 @@ Junior developer at **Epitech Technology** 🇫🇷
 ### 📱 Fullstack App #2
 
 * Same stack, focused on improving architecture & scalability
-* Built as a **solo developer (design → backend → frontend)**
+* Built as a **duo in private (design → backend → frontend)**
 
 ---
 
