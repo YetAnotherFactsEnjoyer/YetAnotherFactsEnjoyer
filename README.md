@@ -26,7 +26,7 @@ Junior developer at **Epitech Technology** 🇫🇷
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
+![ASM](https://img.shields.io/badge/ASM-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ---
 
 ### 🧠 Backend Protocols
