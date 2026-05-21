@@ -34,7 +34,7 @@ Junior developer at **Epitech Technology** 🇫🇷
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-ff6f00?style=for-the-badge)
-
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ---
 
 ### 🌐 Interface Constructs
