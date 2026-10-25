@@ -97,11 +97,10 @@ I like the parts of engineering that happen after the demo works: making busines
 ![Zig](https://img.shields.io/badge/Zig-161922?style=flat-square&logo=zig&logoColor=F7A41D)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-161922?style=flat-square&logo=archlinux&logoColor=1793D1)
 
-### Systems & open-source
+### Systems engineering
 
 | Project | What I worked on | Technologies |
 | :-- | :-- | :-- |
-| **[vimcord](https://github.com/YetAnotherMechanicusEnjoyer/vimcord)** | Terminal Discord client with async workflows, terminal UI, configuration and keyboard-driven navigation | Rust · Tokio · TUI |
 | **Zappy** | Event-driven multiplayer TCP server, non-blocking sockets and scheduled client commands | Rust · TCP/IP · Event loop |
 | **Systems coursework** | FTP server, Unix-shell behavior, networking and low-level programming | C · C++ · Linux |
 
