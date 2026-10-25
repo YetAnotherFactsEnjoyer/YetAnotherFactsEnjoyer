@@ -162,19 +162,6 @@ Project-based curriculum across backend development, systems programming, networ
 
 <br/>
 
-## 📊 GitHub activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YetAnotherFactsEnjoyer&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7956CC&icon_color=7956CC&text_color=c9d1d9&border_radius=12" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YetAnotherFactsEnjoyer&layout=compact&hide_border=true&bg_color=0d1117&title_color=7956CC&text_color=c9d1d9&border_radius=12" alt="Most used languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YetAnotherFactsEnjoyer&bg_color=0d1117&color=c9d1d9&line=7956CC&point=ffffff&area=true&area_color=7956CC&hide_border=true&radius=12" alt="Contribution activity graph" width="100%" />
-
-</div>
-
-<br/>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=110&section=footer" width="100%" alt="" />
