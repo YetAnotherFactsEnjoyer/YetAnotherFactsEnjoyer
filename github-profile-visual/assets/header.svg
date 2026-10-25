@@ -1,1 +1,121 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img"><rect x="0" y="0" width="1200" height="310" rx="22" fill="#11131B"/><rect x="0" y="0" width="14" height="310" rx="0" fill="#A889FF"/><rect x="40" y="40" width="231" height="29" rx="14" fill="#282339"/><text x="54" y="60" fill="#A889FF" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.1">SOFTWARE ENGINEER  /  BUILDER</text><text x="42" y="134" fill="#F5F5FA" font-family="DejaVu Sans,Arial,sans-serif" font-size="57" font-weight="800" letter-spacing="-1.7">RAPHAËL FARGE</text><text x="44" y="181" fill="#A8A9BD" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="500" letter-spacing="0">Java &amp; Spring Boot  •  Full-stack  •  Systems</text><line x1="44" y1="217" x2="682" y2="217" stroke="#343344" stroke-width="2" stroke-linecap="round"/><text x="44" y="253" fill="#BFC0CE" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="650" letter-spacing="1.25">FROM BUSINESS APIS TO LOW-LEVEL NETWORKING</text><rect x="773" y="35" width="388" height="239" rx="18" fill="#1B1E29" stroke="#343344" stroke-width="1.2"/><rect x="773" y="35" width="388" height="39" rx="18" fill="#292D3B"/><rect x="773" y="60" width="388" height="16" rx="0" fill="#292D3B"/><circle cx="795" cy="54" r="5.2" fill="#EF7778"/><circle cx="817" cy="54" r="5.2" fill="#E6BA6E"/><circle cx="839" cy="54" r="5.2" fill="#6EB99E"/><text x="879" y="59" fill="#A8A9BD" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="500" letter-spacing="0">workspace / api</text><text x="793" y="106" fill="#6A718E" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="500" letter-spacing="0">01</text><text x="829" y="106" fill="#A889FF" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="0">public class</text><text x="984" y="106" fill="#F5F5FA" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="650" letter-spacing="0">Builder {</text><text x="793" y="140" fill="#6A718E" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="500" letter-spacing="0">02</text><text x="829" y="140" fill="#C9D8F6" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="500" letter-spacing="0">  design();</text><text x="793" y="174" fill="#6A718E" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="500" letter-spacing="0">03</text><text x="829" y="174" fill="#C9D8F6" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="500" letter-spacing="0">  implement();</text><text x="793" y="208" fill="#6A718E" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="500" letter-spacing="0">04</text><text x="829" y="208" fill="#C9D8F6" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="500" letter-spacing="0">  test();</text><text x="793" y="242" fill="#6A718E" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="500" letter-spacing="0">05</text><text x="829" y="242" fill="#A889FF" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="0">}</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-labelledby="t d" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTowZDI5MDYwNy0xZWVlLTRjYjYtOTlkNy0xMTFmNzY4ZGQ5YjMAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaFjPMS2dwq4vTyuypBppKV4AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpkYzFiMDA4MC0yOTQ0LTQyNTYtYTIzNy1kOGExYmEwZjg4ZmNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNopmQx6AiM8g+f6osmDnl+rgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg4yxSnD8WZaguohVmZA1KwmTpaTqND08M57uNFxLtFWGkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaAfuEaEPJKfZEyj30q5l6qwAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCvHfwjo9HzX82/L1EdP2NGOCjRQlZu/LImsPQLUx6sZmRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBi5Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjBkMjkwNjA3LTFlZWUtNGNiNi05OWQ3LTExMWY3NjhkZDliMy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjgwNWYwNTc1LWNkMmYtNGE5OC04MTcwLTcyNjMwZDdiZWNhNHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDjLFKcPxZlqC6iFWZkDUrCZOlpOo0PTwznu40XEu0VYaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggThk2RrIAW+u9TKgWq+ylFubAwTH2xW3kV0PyuSEwcb+iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgghSvuOuNyxZ7xUVjfFlZNYbi6KWGABcGRjg+6vYun68J0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQAE8JQij6QhvWG5BL1s4N/naPVb5e189pwazG5WxfXkChyklJ21yclLpGmP1xD9EjvZEuHweJdPT/gEhpemLwaQ=</c2pa:manifest></metadata>
+  <title id="t">Raphaël Farge</title>
+  <desc id="d">Raphaël Farge — Java and Spring Boot developer, full-stack and systems engineering</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#181a25"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.85" cy="0.1" r="0.7">
+      <stop offset="0" stop-color="#7956cc" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#7956cc" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.05" cy="1" r="0.6">
+      <stop offset="0" stop-color="#3b82f6" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#c4b0f5"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7956cc" stop-opacity="0"/>
+      <stop offset="0.3" stop-color="#7956cc"/>
+      <stop offset="0.7" stop-color="#6db33f"/>
+      <stop offset="1" stop-color="#6db33f" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#ffffff" fill-opacity="0.06"/>
+    </pattern>
+    <clipPath id="round"><rect width="1200" height="320" rx="18"/></clipPath>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#000000" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+
+  <style>
+    .sans { font-family: 'Inter', 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif; }
+    .mono { font-family: 'JetBrains Mono', 'SF Mono', 'Fira Code', Menlo, Consolas, monospace; white-space: pre; }
+    .line { opacity: 0; animation: fadeIn .5s ease forwards; }
+    .l1 { animation-delay: .4s } .l2 { animation-delay: .8s } .l3 { animation-delay: 1.2s }
+    .l4 { animation-delay: 1.6s } .l5 { animation-delay: 2.0s } .l6 { animation-delay: 2.4s } .l7 { animation-delay: 2.8s }
+    .cursor { animation: blink 1.1s steps(1) infinite; }
+    .float { animation: float 6s ease-in-out infinite; }
+    .rise { opacity: 0; animation: rise .8s ease forwards; }
+    @keyframes fadeIn { to { opacity: 1 } }
+    @keyframes blink { 50% { opacity: 0 } }
+    @keyframes float { 0%,100% { transform: translateY(0) } 50% { transform: translateY(-6px) } }
+    @keyframes rise { from { opacity: 0; transform: translateY(10px) } to { opacity: 1; transform: translateY(0) } }
+    @media (prefers-reduced-motion: reduce) {
+      .line, .rise { animation: none; opacity: 1; }
+      .cursor, .float { animation: none; }
+    }
+  </style>
+
+  <g clip-path="url(#round)">
+    <!-- background -->
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="320" fill="url(#dots)"/>
+    <rect width="1200" height="320" fill="url(#glowA)"/>
+    <rect width="1200" height="320" fill="url(#glowB)"/>
+
+    <!-- bottom accent line -->
+    <rect x="0" y="314" width="1200" height="6" fill="url(#accent)"/>
+
+    <!-- left: text block -->
+    <g class="rise">
+      <text x="60" y="88" class="mono" font-size="14" fill="#7956cc" letter-spacing="0.5">// software engineering @ epitech · bordeaux</text>
+      <text x="60" y="160" class="sans" font-size="66" font-weight="800" fill="url(#name)" letter-spacing="-1.5">Raphaël Farge</text>
+      <text x="60" y="200" class="sans" font-size="21" fill="#c9d1d9">Java &amp; Spring Boot <tspan fill="#7956cc">·</tspan> Full-stack <tspan fill="#7956cc">·</tspan> Systems engineering</text>
+    </g>
+
+    <!-- chips -->
+    <g class="rise" style="animation-delay:.25s">
+      <g class="mono" font-size="13" font-weight="600" text-anchor="middle">
+        <rect x="60" y="226" width="64" height="32" rx="16" fill="#ed8b00" fill-opacity="0.14" stroke="#ed8b00" stroke-opacity="0.6"/>
+        <text x="92" y="247" fill="#ffb454">Java</text>
+
+        <rect x="134" y="226" width="116" height="32" rx="16" fill="#6db33f" fill-opacity="0.14" stroke="#6db33f" stroke-opacity="0.6"/>
+        <text x="192" y="247" fill="#8fd16a">Spring Boot</text>
+
+        <rect x="260" y="226" width="96" height="32" rx="16" fill="#61dafb" fill-opacity="0.12" stroke="#61dafb" stroke-opacity="0.55"/>
+        <text x="308" y="247" fill="#7fe3ff">React/TS</text>
+
+        <rect x="366" y="226" width="96" height="32" rx="16" fill="#f74c00" fill-opacity="0.12" stroke="#f74c00" stroke-opacity="0.55"/>
+        <text x="414" y="247" fill="#ff8a5c">Rust/C++</text>
+
+        <rect x="472" y="226" width="100" height="32" rx="16" fill="#4169e1" fill-opacity="0.14" stroke="#4169e1" stroke-opacity="0.6"/>
+        <text x="522" y="247" fill="#8aa4ff">PostgreSQL</text>
+      </g>
+    </g>
+
+    <!-- right: code card -->
+    <g class="float">
+      <g filter="url(#shadow)">
+        <rect x="690" y="45" width="450" height="230" rx="14" fill="#0b0e14" stroke="#7956cc" stroke-opacity="0.45"/>
+      </g>
+      <!-- title bar -->
+      <path d="M690 59a14 14 0 0 1 14-14h422a14 14 0 0 1 14 14v22H690z" fill="#161b26"/>
+      <line x1="690" y1="81" x2="1140" y2="81" stroke="#7956cc" stroke-opacity="0.25"/>
+      <circle cx="712" cy="63" r="5.5" fill="#ff5f57"/>
+      <circle cx="732" cy="63" r="5.5" fill="#febc2e"/>
+      <circle cx="752" cy="63" r="5.5" fill="#28c840"/>
+      <text x="915" y="67" class="mono" font-size="12" fill="#6e7681" text-anchor="middle">SyncController.java</text>
+
+      <!-- code -->
+      <g class="mono" font-size="14">
+        <text x="714" y="112" class="line l1"><tspan fill="#d2a8ff">@PostMapping</tspan><tspan fill="#c9d1d9">(</tspan><tspan fill="#a5d6ff">"/sync"</tspan><tspan fill="#c9d1d9">)</tspan></text>
+        <text x="714" y="136" class="line l2"><tspan fill="#ff7b72">public</tspan><tspan fill="#c9d1d9"> ResponseEntity&lt;?&gt; </tspan><tspan fill="#d2a8ff">replay</tspan><tspan fill="#c9d1d9">(</tspan></text>
+        <text x="714" y="160" class="line l3"><tspan fill="#c9d1d9">    </tspan><tspan fill="#d2a8ff">@RequestBody</tspan><tspan fill="#c9d1d9"> Batch b) {</tspan></text>
+        <text x="714" y="184" class="line l4"><tspan fill="#c9d1d9">  </tspan><tspan fill="#ff7b72">if</tspan><tspan fill="#c9d1d9"> (seen(b.id())) </tspan><tspan fill="#ff7b72">return</tspan><tspan fill="#c9d1d9"> ok();</tspan></text>
+        <text x="714" y="208" class="line l5"><tspan fill="#c9d1d9">  service.apply(b);</tspan></text>
+        <text x="714" y="232" class="line l6"><tspan fill="#c9d1d9">  </tspan><tspan fill="#ff7b72">return</tspan><tspan fill="#c9d1d9"> ok();</tspan></text>
+        <text x="714" y="256" class="line l7"><tspan fill="#c9d1d9">}</tspan><tspan class="cursor" fill="#7956cc">▌</tspan></text>
+      </g>
+    </g>
+  </g>
+
+  <!-- outer border -->
+  <rect x="0.5" y="0.5" width="1199" height="319" rx="18" fill="none" stroke="#7956cc" stroke-opacity="0.3"/>
+</svg>
