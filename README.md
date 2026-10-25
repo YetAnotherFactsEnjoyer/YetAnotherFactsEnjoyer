@@ -2,124 +2,187 @@
 
 <img src="./assets/header.svg" alt="Raphaël Farge — Java and Spring Boot developer, full-stack and systems engineering" width="100%" />
 
+<a href="https://github.com/YetAnotherFactsEnjoyer">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=7956CC&center=true&vCenter=true&width=640&lines=Java+%26+Spring+Boot+backend+engineer;Full-stack+with+React+%2B+TypeScript;Systems+tinkerer+in+Rust%2C+C+%26+C%2B%2B;I+test+the+failure+paths" alt="Typing animation: Java & Spring Boot backend engineer, full-stack, systems tinkerer" />
+</a>
+
 <br/>
 
-**Software Engineering @ Epitech** &nbsp; · &nbsp; **Bordeaux, France** &nbsp; · &nbsp; **Backend / Full-stack / Systems**
+![Epitech](https://img.shields.io/badge/Epitech-Software_Engineering-181A25?style=for-the-badge&logo=gitbook&logoColor=white)
+![Location](https://img.shields.io/badge/Bordeaux-France-7956CC?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Backend_·_Full--stack_·_Systems-181A25?style=for-the-badge)
 
-<br/>
-
-[![GitHub](https://img.shields.io/badge/Explore_my_repositories-181A25?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YetAnotherFactsEnjoyer?tab=repositories)
-![Primary focus](https://img.shields.io/badge/Primary_focus-Java_%26_Spring_Boot-7956CC?style=for-the-badge&logo=springboot&logoColor=white)
+[![Repositories](https://img.shields.io/badge/Explore_my_repositories-7956CC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YetAnotherFactsEnjoyer?tab=repositories)
+[![StockFlow](https://img.shields.io/badge/Latest_project-StockFlow-181A25?style=for-the-badge&logo=springboot&logoColor=6DB33F)](https://github.com/YetAnotherFactsEnjoyer/StockFlow)
 
 </div>
 
----
+<br/>
 
-### About me
+## 👋 About me
 
-I'm **Raphaël**, a software engineering student at **Epitech Technology** who enjoys building software across the stack: **Java/Spring Boot** services, **React/TypeScript** applications, relational databases, and lower-level **Rust / C / C++** systems.
+I'm **Raphaël**, a software engineering student at **Epitech Technology**. I build across the stack, from **Java / Spring Boot** services and **React / TypeScript** apps to relational databases and lower-level **Rust / C / C++** systems.
 
-I like the parts of engineering that happen after the demo works: making business rules correct, structuring code so it stays readable, designing reliable APIs, and testing failure cases.
+I care about what happens *after* the demo works: correct business rules, readable structure, reliable APIs and tested failure cases.
 
-> Currently focused on **Java backend engineering**, improving **StockFlow**, and building applications I can understand, explain, and maintain end-to-end.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Featured projects
+#### 🎯 Currently
+- Deepening **Java backend engineering**
+- Improving **StockFlow** (security, inventory consistency, UI ↔ API wiring)
+- Building things I can **understand, explain and maintain** end to end
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧭 How I work
+- Model the domain before writing endpoints
+- Make operations **idempotent** where retries happen
+- Write tests for the unhappy path first
+- Keep code boring, readable and documented
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🚀 Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
   <img src="./assets/ghostpay.svg" alt="GhostPay — offline-first payment simulator" width="100%" />
-  <h3>GhostPay</h3>
-  <p>Offline-first <strong>payment simulation</strong> with authenticated terminals, browser-local payment capture, reconnect-and-sync flows, idempotent batch replay, and test coverage.</p>
-  <p><strong>Stack:</strong> Spring Boot · Spring Security · PostgreSQL · Flyway · React · TypeScript · IndexedDB · Docker</p>
-  <sub>RELEASE CANDIDATE · Simulation only — no real-money processing</sub>
+  <h3>👻 GhostPay</h3>
+  <p>Offline-first <strong>payment simulation</strong> with authenticated terminals, browser-local capture, reconnect-and-sync flows, <strong>idempotent batch replay</strong> and solid test coverage.</p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=spring,postgres,react,ts,docker&perline=5" alt="Spring Boot, PostgreSQL, React, TypeScript, Docker" />
+  </p>
+  <sub>Spring Security · Flyway · IndexedDB</sub>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/status-release_candidate-7956CC?style=flat-square" alt="Release candidate" />
+  <img src="https://img.shields.io/badge/simulation_only-no_real_money-555?style=flat-square" alt="Simulation only" />
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/YetAnotherFactsEnjoyer/StockFlow"><img src="./assets/stockflow.svg" alt="StockFlow — inventory and procurement platform" width="100%" /></a>
-  <h3><a href="https://github.com/YetAnotherFactsEnjoyer/StockFlow">StockFlow</a></h3>
-  <p>Inventory and procurement app with products, suppliers, relational backend models and a React workspace. Currently connecting the UI to the APIs and strengthening security and inventory consistency.</p>
-  <p><strong>Stack:</strong> Java · Spring Boot · PostgreSQL · React · TypeScript · Tailwind CSS</p>
-  <sub>ACTIVE DEVELOPMENT · Backend/frontend integration in progress</sub>
+  <h3>📦 <a href="https://github.com/YetAnotherFactsEnjoyer/StockFlow">StockFlow</a></h3>
+  <p>Inventory and procurement platform with products, suppliers, relational backend models and a React workspace. Now connecting the UI to the APIs and hardening security and stock consistency.</p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,react,ts,tailwind&perline=6" alt="Java, Spring Boot, PostgreSQL, React, TypeScript, Tailwind" />
+  </p>
+  <br/>
+  <img src="https://img.shields.io/badge/status-active_development-2EA043?style=flat-square" alt="Active development" />
+  <img src="https://img.shields.io/badge/integration-in_progress-D29922?style=flat-square" alt="Integration in progress" />
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
   <a href="https://github.com/Xartania/Convertly"><img src="./assets/convertly.svg" alt="Convertly — file conversion platform" width="100%" /></a>
-  <h3><a href="https://github.com/Xartania/Convertly">Convertly</a></h3>
-  <p>Cross-language file conversion platform connecting a web interface and REST backend to a dedicated scripting engine with a <strong>C++ tokenizer</strong> and <strong>Rust parser/interpreter</strong>.</p>
-  <p><strong>Stack:</strong> Spring Boot · TypeScript · C++ · Rust · REST</p>
-  <sub>ENGINEERING PROJECT · Cross-language integration</sub>
+  <h3>🔁 <a href="https://github.com/Xartania/Convertly">Convertly</a></h3>
+  <p>Cross-language file conversion platform: a web UI and REST backend driving a custom scripting engine with a <strong>C++ tokenizer</strong> and a <strong>Rust parser / interpreter</strong>.</p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=spring,ts,cpp,rust&perline=4" alt="Spring Boot, TypeScript, C++, Rust" />
+  </p>
+  <br/>
+  <img src="https://img.shields.io/badge/type-engineering_project-7956CC?style=flat-square" alt="Engineering project" />
+  <img src="https://img.shields.io/badge/focus-cross--language_integration-555?style=flat-square" alt="Cross-language integration" />
 </td>
 <td width="50%" valign="top">
   <img src="./assets/orbit.svg" alt="Orbit Dashboard — modular web dashboard" width="100%" />
-  <h3>Orbit Dashboard</h3>
-  <p>Modular dashboard exploring third-party integrations, OAuth-connected widgets, public and authenticated experiences, and feature-based UI architecture.</p>
-  <p><strong>Stack:</strong> Java · Spring Boot · React · TypeScript · PostgreSQL</p>
-  <sub>PROJECT · Modular full-stack architecture</sub>
+  <h3>🪐 Orbit Dashboard</h3>
+  <p>Modular dashboard exploring third-party integrations, <strong>OAuth-connected widgets</strong>, public and authenticated experiences, and feature-based UI architecture.</p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=java,spring,react,ts,postgres&perline=5" alt="Java, Spring Boot, React, TypeScript, PostgreSQL" />
+  </p>
+  <br/>
+  <img src="https://img.shields.io/badge/type-project-7956CC?style=flat-square" alt="Project" />
+  <img src="https://img.shields.io/badge/focus-modular_architecture-555?style=flat-square" alt="Modular architecture" />
 </td>
 </tr>
 </table>
 
-### Engineering stack
+<br/>
 
-**Backend & APIs**
+## 🛠️ Engineering stack
 
-![Java](https://img.shields.io/badge/Java-161922?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-161922?style=flat-square&logo=springboot&logoColor=6DB33F)
-![Spring Security](https://img.shields.io/badge/Spring_Security-161922?style=flat-square&logo=springsecurity&logoColor=6DB33F)
-![PHP](https://img.shields.io/badge/PHP-161922?style=flat-square&logo=php&logoColor=8892BF)
-![Symfony](https://img.shields.io/badge/Symfony-161922?style=flat-square&logo=symfony&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-161922?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+<div align="center">
 
-**Frontend**
+| | |
+| :-- | :-- |
+| **Backend & APIs** | <img src="https://skillicons.dev/icons?i=java,spring,php,symfony,nodejs&perline=5" alt="Java, Spring, PHP, Symfony, Node.js" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,html,css&perline=6" alt="TypeScript, JavaScript, React, Tailwind, HTML, CSS" /> |
+| **Data & delivery** | <img src="https://skillicons.dev/icons?i=postgres,docker,git,githubactions,linux,gradle&perline=6" alt="PostgreSQL, Docker, Git, GitHub Actions, Linux, Gradle" /> |
+| **Systems & performance** | <img src="https://skillicons.dev/icons?i=rust,c,cpp,zig,arch&perline=5" alt="Rust, C, C++, Zig, Arch Linux" /> |
 
-![TypeScript](https://img.shields.io/badge/TypeScript-161922?style=flat-square&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-161922?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-161922?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-161922?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![HTML5](https://img.shields.io/badge/HTML5-161922?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-161922?style=flat-square&logo=css&logoColor=1572B6)
+</div>
 
-**Data, infrastructure & delivery**
+<br/>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161922?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Docker](https://img.shields.io/badge/Docker-161922?style=flat-square&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-161922?style=flat-square&logo=git&logoColor=F05032)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-161922?style=flat-square&logo=githubactions&logoColor=2088FF)
-![Linux](https://img.shields.io/badge/Linux-161922?style=flat-square&logo=linux&logoColor=FCC624)
-![Gradle](https://img.shields.io/badge/Gradle-161922?style=flat-square&logo=gradle&logoColor=23A8A8)
+## ⚙️ Systems engineering
 
-**Systems & performance**
-
-![Rust](https://img.shields.io/badge/Rust-161922?style=flat-square&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/C-161922?style=flat-square&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C++-161922?style=flat-square&logo=cplusplus&logoColor=00599C)
-![Zig](https://img.shields.io/badge/Zig-161922?style=flat-square&logo=zig&logoColor=F7A41D)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-161922?style=flat-square&logo=archlinux&logoColor=1793D1)
-
-### Systems engineering
-
-| Project | What I worked on | Technologies |
+| Project | What I worked on | Stack |
 | :-- | :-- | :-- |
-| **Zappy** | Event-driven multiplayer TCP server, non-blocking sockets and scheduled client commands | Rust · TCP/IP · Event loop |
-| **Systems coursework** | FTP server, Unix-shell behavior, networking and low-level programming | C · C++ · Linux |
+| 🐾 **Zappy** | Event-driven multiplayer TCP server, non-blocking sockets, scheduled client commands | `Rust` `TCP/IP` `Event loop` |
+| 🐧 **Systems coursework** | FTP server, Unix-shell behavior, networking and low-level programming | `C` `C++` `Linux` |
 
-### Experience
+<br/>
 
-**Junior Web Developer Intern — Anybug**  
-*September – December 2025*
+## 💼 Experience
 
-Worked in a four-developer team on existing PHP/Symfony applications: CRUD features, database entities, controllers, forms, validation and frontend interactions. Learned to ship changes within an established codebase.
+```text
+2025 ─────────────────────────────────────────────────────────────► now
+ │
+ ├─ Sep – Dec 2025   Junior Web Developer Intern · Anybug
+ │
+ └─ 2024 – present   Software Engineering · Epitech Technology
+```
 
-**Software Engineering — Epitech Technology**  
-*2024 – present*
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🧑‍💻 Junior Web Developer Intern — Anybug**
+<sub>September – December 2025</sub>
+
+Worked in a four-developer team on existing **PHP / Symfony** applications: CRUD features, entities, controllers, forms, validation and frontend interactions. Learned to ship changes safely inside an established codebase.
+
+</td>
+<td width="50%" valign="top">
+
+**🎓 Software Engineering — Epitech Technology**
+<sub>2024 – present</sub>
 
 Project-based curriculum across backend development, systems programming, networking, algorithms, web technologies and databases.
 
----
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub activity
 
 <div align="center">
-  <sub>Build thoughtfully. Test the failure paths. Keep learning.</sub>
-  <br/>
-  <a href="https://github.com/YetAnotherFactsEnjoyer?tab=repositories">Explore repositories</a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YetAnotherFactsEnjoyer&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7956CC&icon_color=7956CC&text_color=c9d1d9&border_radius=12" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YetAnotherFactsEnjoyer&layout=compact&hide_border=true&bg_color=0d1117&title_color=7956CC&text_color=c9d1d9&border_radius=12" alt="Most used languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YetAnotherFactsEnjoyer&bg_color=0d1117&color=c9d1d9&line=7956CC&point=ffffff&area=true&area_color=7956CC&hide_border=true&radius=12" alt="Contribution activity graph" width="100%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=110&section=footer" width="100%" alt="" />
+
+<sub><b>Build thoughtfully. Test the failure paths. Keep learning.</b></sub>
+
+<br/>
+
+<a href="https://github.com/YetAnotherFactsEnjoyer?tab=repositories">Explore repositories →</a>
+
 </div>
