@@ -1,15 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="580" height="216" viewBox="0 0 580 216" role="img" aria-labelledby="t d">
-  <title id="t">Zappy</title>
-  <desc id="d">Rust non-blocking multiplayer TCP server project.</desc>
-  <rect width="580" height="216" rx="15" fill="#11131B"/>
-  <rect width="6" height="216" fill="#EF9B77"/>
-  <text x="31" y="56" fill="#F5F5FA" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="800" letter-spacing="-0.5">ZAPPY</text>
-  <text x="32" y="92" fill="#A8A9BD" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="650" letter-spacing="0.8">MULTIPLAYER TCP SERVER</text>
-  <rect x="31" y="136" width="470" height="1" fill="#343344"/>
-  <text x="32" y="165" fill="#EF9B77" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="0.5">RUST  •  MIO  •  TCP/IP</text>
-  <g fill="none" stroke="#B3A9B1" stroke-width="2">
-    <path d="M506 44 L546 75 L526 124 L484 110 L506 44"/>
-    <path d="M506 44 L484 110 M546 75 L484 110"/>
-  </g>
-  <g fill="#EF9B77"><circle cx="506" cy="44" r="6"/><circle cx="546" cy="75" r="6"/><circle cx="526" cy="124" r="6"/><circle cx="484" cy="110" r="6"/></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="285" viewBox="0 0 580 285" role="img" aria-labelledby="title desc">
+<title id="title">Zappy multiplayer Rust TCP server</title><desc id="desc">Event-driven TCP server connected to multiple clients via a non-blocking network event loop.</desc>
+<rect width="580" height="285" rx="17" fill="#1A1716"/>
+<rect width="580" height="7" rx="4" fill="#F0A477"/>
+<text x="26" y="52" fill="#FFF1E8" font-family="Arial,sans-serif" font-size="28" font-weight="800">ZAPPY</text>
+<text x="27" y="75" fill="#C0ADA4" font-family="monospace" font-size="12" letter-spacing="1.1">RUST / MULTIPLAYER TCP SERVER</text>
+<rect x="28" y="103" width="524" height="143" rx="13" fill="#2A2422" stroke="#594740"/>
+<g fill="none" stroke="#C08361" stroke-width="2.5"><path d="M286 177 L141 138 M286 177 L141 211 M286 177 L430 138 M286 177 L430 211"/></g>
+<g><rect x="217" y="135" width="138" height="87" rx="12" fill="#48372F" stroke="#E1A17A" stroke-width="1.5"/>
+<rect x="239" y="151" width="94" height="20" rx="6" fill="#684737"/>
+<text x="286" y="166" fill="#FFE8DA" font-family="monospace" font-size="11" text-anchor="middle">EVENT LOOP</text>
+<text x="286" y="192" fill="#FFBB90" font-family="Arial,sans-serif" font-size="14" font-weight="700" text-anchor="middle">TCP SERVER</text>
+<text x="286" y="208" fill="#C1A597" font-family="monospace" font-size="10" text-anchor="middle">mio poll()</text></g>
+<g fill="#3E3530" stroke="#B88B71" stroke-width="1.5"><rect x="73" y="116" width="130" height="42" rx="10"/><rect x="73" y="190" width="130" height="42" rx="10"/><rect x="369" y="116" width="136" height="42" rx="10"/><rect x="369" y="190" width="136" height="42" rx="10"/></g>
+<g fill="#EFE0D8" font-family="Arial,sans-serif" font-size="12" text-anchor="middle"><text x="138" y="142">AI client 01</text><text x="138" y="216">AI client 02</text><text x="437" y="142">Graphic client</text><text x="437" y="216">Game state</text></g>
+<circle cx="286" cy="177" r="4" fill="#FFD2AD"/>
+<text x="27" y="273" fill="#D9A58B" font-family="monospace" font-size="10">RUST  /  MIO  /  NON-BLOCKING IO</text>
 </svg>
