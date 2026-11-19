@@ -1,109 +1,97 @@
 <div align="center">
-
-<img src="./assets/backend-hero.svg" alt="Backend and systems engineering — Java, Spring Boot, Rust and PostgreSQL" width="100%" />
-
-<br />
-
-### Java / Spring Boot · Backend & Systems Engineering
-
-Building APIs, data-driven applications, and networked systems.  
-Third-year **EPITECH** student with professional client-facing development experience.
-
-**Open to full-time backend roles in Malaysia** · Available from **March 2027** · Relocation / sponsorship required
-
-<br />
-
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,rust,ts,react,docker,linux&theme=dark&perline=8" alt="Java, Spring Boot, PostgreSQL, Rust, TypeScript, React, Docker and Linux" />
-
+  <img src="./assets/backend-hero.svg" alt="Backend and systems engineering: Java and Spring Boot APIs, PostgreSQL and Rust networking" width="100%" />
+  <p><b>Java / Spring Boot Developer &nbsp;·&nbsp; Backend & Systems Engineering</b></p>
+  <p>Building REST APIs, data-driven applications, and networked systems.<br/>Third-year EPITECH student with professional client-facing development experience.</p>
+  <p><b>Open to backend opportunities in Malaysia</b> &nbsp;·&nbsp; Available March 2027 &nbsp;·&nbsp; Relocation and sponsorship required</p>
 </div>
 
 ---
 
-## Selected work
+## Technologies I work with
+
+<div align="center">
+  <p><b>Backend-first, with full-stack delivery and systems programming experience.</b></p>
+  <table>
+    <tr>
+      <td align="center" valign="top" width="50%">
+<h3>01 / Backend</h3>
+<p>Java · Spring Boot · PHP</p>
+<table><tr><td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="49" height="49" /><br/><sub><b>Java</b></sub></td><td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" width="49" height="49" /><br/><sub><b>Spring</b></sub></td><td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="49" height="49" /><br/><sub><b>PHP</b></sub></td></tr><tr><td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" alt="Symfony" width="49" height="49" /><br/><sub><b>Symfony</b></sub></td><td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" alt="Gradle" width="49" height="49" /><br/><sub><b>Gradle</b></sub></td><td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="49" height="49" /><br/><sub><b>PostgreSQL</b></sub></td></tr></table>
+</td>
+      <td align="center" valign="top" width="50%">
+<h3>02 / Frontend</h3>
+<p>Web application interfaces</p>
+<table><tr><td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="49" height="49" /><br/><sub><b>TypeScript</b></sub></td><td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="49" height="49" /><br/><sub><b>React</b></sub></td><td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="49" height="49" /><br/><sub><b>JavaScript</b></sub></td></tr><tr><td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="49" height="49" /><br/><sub><b>HTML5</b></sub></td><td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="49" height="49" /><br/><sub><b>CSS3</b></sub></td><td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="49" height="49" /><br/><sub><b>Node.js</b></sub></td></tr></table>
+</td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="50%">
+<h3>03 / Systems</h3>
+<p>Networking & lower-level programming</p>
+<table><tr><td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="49" height="49" /><br/><sub><b>Rust</b></sub></td><td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="49" height="49" /><br/><sub><b>C</b></sub></td><td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="49" height="49" /><br/><sub><b>C++</b></sub></td></tr><tr><td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="49" height="49" /><br/><sub><b>Linux</b></sub></td><td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="49" height="49" /><br/><sub><b>Git</b></sub></td><td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="49" height="49" /><br/><sub><b>Docker</b></sub></td></tr></table>
+</td>
+      <td align="center" valign="top" width="50%">
+        <h3>04 / Engineering practices</h3>
+        <p>What I focus on when building software</p>
+        <p align="left">
+          <b>APIs & data</b><br/>
+          REST · Spring Security · Spring Data JPA · SQL · Flyway<br/><br/>
+          <b>Quality & delivery</b><br/>
+          JUnit · Integration tests · Validation · Git · Docker<br/><br/>
+          <b>Networked systems</b><br/>
+          TCP/IP · Non-blocking I/O · Event loops · Protocol parsing
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## Selected projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/YetAnotherFactsEnjoyer/StockFlow"><img src="./assets/stockflow.svg" alt="StockFlow — inventory and procurement platform" width="100%" /></a>
-
-**[StockFlow](https://github.com/YetAnotherFactsEnjoyer/StockFlow)** · *In progress*
-
-Spring Boot / PostgreSQL backend for product and supplier workflows, with a React workspace. Working on API integration and inventory consistency.
-
-`Java` `Spring Boot` `PostgreSQL` `React`
-</td>
-<td width="50%" valign="top">
-<img src="./assets/convertly.svg" alt="Convertly — file conversion platform" width="100%" />
-
-**Convertly** · *Team project*
-
-React / TypeScript file-conversion interface and Spring Boot REST integration with a separate conversion engine. Worked on web workflows, format handling and API boundaries.
-
-`Java` `Spring Boot` `React` `TypeScript`
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/YetAnotherFactsEnjoyer/GhostPay"><img src="./assets/ghostpay.svg" alt="GhostPay — offline-first payment simulation" width="100%" /></a>
-
-**[GhostPay](https://github.com/YetAnotherFactsEnjoyer/GhostPay)** · *Simulation only*
-
-Offline-first payment simulation with local transaction capture and idempotent synchronization after connectivity returns. No real money involved.
-
-`Java` `Spring Boot` `PostgreSQL` `TypeScript`
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/YetAnotherFactsEnjoyer/zappy"><img src="./assets/zappy.svg" alt="Zappy — multiplayer TCP server" width="100%" /></a>
-
-**[Zappy](https://github.com/YetAnotherFactsEnjoyer/zappy)** · *Team project*
-
-Built the Rust side of an event-driven multiplayer TCP server: non-blocking socket polling, protocol parsing, queued commands and shared game state.
-
-`Rust` `mio` `TCP/IP` `Non-blocking I/O`
-</td>
-</tr>
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://github.com/YetAnotherFactsEnjoyer/StockFlow"><img src="./assets/stockflow.svg" alt="StockFlow: illustrated inventory application showing products, inventory counts and stock levels" width="100%"/></a>
+      <h3><a href="https://github.com/YetAnotherFactsEnjoyer/StockFlow">StockFlow</a></h3>
+      <p><b>Inventory & procurement · In progress</b></p>
+      <p>Spring Boot and PostgreSQL APIs for products and suppliers with a React workspace. Working on API integration and inventory consistency.</p>
+      <p><sub>Java · Spring Boot · PostgreSQL · React</sub></p>
+    </td>
+    <td valign="top" width="50%">
+      <img src="./assets/convertly.svg" alt="Convertly: file conversion visual showing source file, API and converted output" width="100%"/>
+      <h3>Convertly</h3>
+      <p><b>File conversion application · Team project</b></p>
+      <p>Developed the React/TypeScript web application and Spring Boot REST integration connecting conversion workflows to a separate engine.</p>
+      <p><sub>Java · Spring Boot · React · TypeScript</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://github.com/YetAnotherFactsEnjoyer/GhostPay"><img src="./assets/ghostpay.svg" alt="GhostPay: offline terminal, sync queue and backend synchronization architecture" width="100%"/></a>
+      <h3><a href="https://github.com/YetAnotherFactsEnjoyer/GhostPay">GhostPay</a></h3>
+      <p><b>Offline-first payment simulation</b></p>
+      <p>Local transaction capture during connectivity outages and idempotent batch synchronization. Simulation only; no real payments.</p>
+      <p><sub>Java · Spring Boot · PostgreSQL · TypeScript</sub></p>
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://github.com/YetAnotherFactsEnjoyer/zappy"><img src="./assets/zappy.svg" alt="Zappy: Rust event-loop TCP server connected to multiplayer clients" width="100%"/></a>
+      <h3><a href="https://github.com/YetAnotherFactsEnjoyer/zappy">Zappy</a></h3>
+      <p><b>Multiplayer TCP server · Team project</b></p>
+      <p>Developed the Rust server using non-blocking socket polling, protocol parsing, queued commands, and shared game state.</p>
+      <p><sub>Rust · mio · TCP/IP · Non-blocking I/O</sub></p>
+    </td>
+  </tr>
 </table>
 
 ## Professional experience
 
 **Junior Web Developer Intern · Anybug** — Sep–Dec 2025
 
-Primary developer of a business-used AI photo-analysis and image-generation application, covering its Symfony backend, administration interface, frontend and OpenAI integration. Also contributed to museum experiences and e-commerce back-office workflows, with client demonstrations and acceptance testing.
-
-## Engineering toolkit
-
-<div align="center">
-
-**Backend & APIs**
-
-<img src="https://skillicons.dev/icons?i=java,spring,php,symfony&theme=dark" alt="Java, Spring Boot, PHP and Symfony" />
-
-Java 21 · Spring Security · Spring Data JPA · REST APIs · JWT
-
-**Databases & delivery**
-
-<img src="https://skillicons.dev/icons?i=postgres,docker,git,linux,gradle&theme=dark" alt="PostgreSQL, Docker, Git, Linux and Gradle" />
-
-SQL · Flyway · JUnit · Integration testing
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,html,css&theme=dark" alt="TypeScript, JavaScript, React, HTML and CSS" />
-
-**Systems**
-
-<img src="https://skillicons.dev/icons?i=rust,c,cpp&theme=dark" alt="Rust, C and C++" />
-
-TCP/IP · Event loops · Non-blocking I/O · Protocol parsing
-
-</div>
+Primary developer of a business-used AI photo-analysis and image-generation application, including its **Symfony backend**, administration interface, frontend and OpenAI integration. Also contributed to museum experiences, e-commerce back-office workflows, and client demonstrations.
 
 ---
 
 <div align="center">
-
-**Build thoughtfully. Test failure paths. Keep learning.**
-
-[Explore repositories](https://github.com/YetAnotherFactsEnjoyer?tab=repositories)
-
+  <b>Build thoughtfully. Test the failure paths. Keep learning.</b>
+  <p><a href="https://github.com/YetAnotherFactsEnjoyer?tab=repositories">Explore repositories</a></p>
 </div>
