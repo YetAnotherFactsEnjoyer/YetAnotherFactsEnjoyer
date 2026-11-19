@@ -1,20 +1,3 @@
-~~~text
-  +------------------------------------------------------+
-  |  dev@terminal:~/engineering                  [online] |
-  +------------------------------------------------------+
-  |                                                      |
-  |  $ whoami                                            |
-  |  > backend-focused developer                         |
-  |                                                      |
-  |  $ ./stack --focus                                   |
-  |  > Java 21  /  Spring Boot  /  PostgreSQL             |
-  |  > Rust     /  TCP-IP       /  Linux                  |
-  |                                                      |
-  |  $ cat approach.txt                                  |
-  |  > Build it. Understand it. Make it reliable.        |
-  +------------------------------------------------------+
-~~~
-
 ## Hey, I'm [@YetAnotherFactsEnjoyer](https://github.com/YetAnotherFactsEnjoyer) 👋
 
 I'm a **third-year software engineering student at EPITECH**, based in France and focused on **Java / Spring Boot backend development**. I like working on the parts of software that need to hold together: APIs, business rules, databases, and the systems underneath them.
