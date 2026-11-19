@@ -1,25 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-labelledby="title desc">
-  <title id="title">Backend engineering</title>
-  <desc id="desc">A dark editorial banner connecting Java, Spring Boot, PostgreSQL and Rust in a clean technical diagram.</desc>
-  <rect width="1200" height="290" rx="18" fill="#11131A"/>
-  <path d="M0 1 H1200" stroke="#313442" stroke-width="2"/>
-  <rect x="34" y="35" width="6" height="32" rx="3" fill="#A58BFF"/>
-  <text x="57" y="60" font-size="14" font-family="Arial,Helvetica,sans-serif" letter-spacing="3" font-weight="700" fill="#A58BFF">BACKEND / SYSTEMS</text>
-  <text x="50" y="129" font-size="46" font-family="Arial,Helvetica,sans-serif" letter-spacing="-1.2" font-weight="700" fill="#FAFAFC">Build the backend.</text>
-  <text x="50" y="185" font-size="46" font-family="Arial,Helvetica,sans-serif" letter-spacing="-1.2" font-weight="700" fill="#FAFAFC">Understand the system.</text>
-  <text x="52" y="239" font-size="17" font-family="Arial,Helvetica,sans-serif" fill="#A4A7B4">APIs   ·   Databases   ·   Network programming</text>
-  <path d="M706 144 C753 144 750 68 800 68 M706 144 C765 144 760 143 800 143 M706 144 C753 144 750 219 800 219" fill="none" stroke="#464455" stroke-width="2"/>
-  <path d="M959 68 C1010 68 1001 143 1046 143 M959 219 C1010 219 1001 143 1046 143" fill="none" stroke="#464455" stroke-width="2"/>
-  <circle cx="705" cy="144" r="13" fill="#A58BFF"/>
-  <circle cx="705" cy="144" r="5" fill="#11131A"/>
-  <g font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700">
-    <rect x="800" y="44" width="160" height="47" rx="11" fill="#20232F" stroke="#575267"/>
-    <rect x="800" y="119" width="160" height="47" rx="11" fill="#20232F" stroke="#575267"/>
-    <rect x="800" y="195" width="160" height="47" rx="11" fill="#20232F" stroke="#575267"/>
-    <text x="880" y="73" text-anchor="middle" fill="#F5F5FA">JAVA</text>
-    <text x="880" y="148" text-anchor="middle" fill="#F5F5FA">SPRING BOOT</text>
-    <text x="880" y="224" text-anchor="middle" fill="#F5F5FA">RUST</text>
-    <rect x="1046" y="119" width="122" height="47" rx="11" fill="#A58BFF"/>
-    <text x="1107" y="148" text-anchor="middle" fill="#12121A" font-size="13">POSTGRESQL</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Backend and systems engineering</title><desc id="desc">A premium dark terminal-inspired illustration with software services, API routes, databases and systems engineering.</desc>
+<defs><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#263243"/></pattern></defs>
+<rect x="1" y="1" width="1198" height="338" rx="23" fill="#0D131C" stroke="#2B3646" stroke-width="2"/>
+<rect x="1" y="1" width="1198" height="338" rx="23" fill="url(#dots)" opacity=".9"/>
+<rect x="45" y="42" width="5" height="19" rx="2.5" fill="#8A83FF"/>
+<text x="65" y="57" fill="#ABABBF" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="3" font-weight="700">BACKEND / SYSTEMS ENGINEERING</text>
+<text x="45" y="125" fill="#FAFBFD" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="700" letter-spacing="-1.8">Build the backend.</text>
+<text x="45" y="187" fill="#FAFBFD" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="700" letter-spacing="-1.8">Understand the system.</text>
+<text x="48" y="237" fill="#A6B3C3" font-family="Arial,Helvetica,sans-serif" font-size="17">Services · Databases · Event-driven networking</text>
+<rect x="45" y="274" width="126" height="33" rx="9" fill="#202B3A" stroke="#44516A"/>
+<text x="108" y="295" fill="#E3E7F2" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" text-anchor="middle">JAVA 21</text>
+<rect x="181" y="274" width="145" height="33" rx="9" fill="#202B3A" stroke="#44516A"/>
+<text x="253" y="295" fill="#E3E7F2" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" text-anchor="middle">SPRING BOOT</text>
+<rect x="336" y="274" width="106" height="33" rx="9" fill="#202B3A" stroke="#44516A"/>
+<text x="389" y="295" fill="#E3E7F2" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" text-anchor="middle">RUST</text>
+<rect x="632" y="35" width="522" height="270" rx="16" fill="#151F2C" stroke="#3D495B" stroke-width="1.5"/>
+<path d="M632 79 H1154" stroke="#344052"/>
+<circle cx="655" cy="58" r="5" fill="#F07A75"/><circle cx="673" cy="58" r="5" fill="#F6C56C"/><circle cx="691" cy="58" r="5" fill="#6FCEA5"/>
+<text x="735" y="62" fill="#8595AA" font-family="monospace" font-size="13">service / architecture</text>
+<text x="656" y="113" fill="#8A83FF" font-family="monospace" font-size="16">01</text><text x="696" y="113" fill="#BFD0E2" font-family="monospace" font-size="16">CLIENT REQUEST</text>
+<path d="M763 119 V138 M757 132 L763 138 L769 132" fill="none" stroke="#7689A3" stroke-width="2"/>
+<rect x="704" y="142" width="378" height="45" rx="9" fill="#243248" stroke="#53617A"/>
+<rect x="714" y="151" width="61" height="25" rx="5" fill="#315E58"/><text x="744" y="168" text-anchor="middle" fill="#79E7BD" font-family="monospace" font-size="12" font-weight="700">GET</text>
+<text x="794" y="170" fill="#F1F3F8" font-family="monospace" font-size="16">/api/v1/resources</text>
+<path d="M893 187 V208 M887 202 L893 208 L899 202" fill="none" stroke="#7689A3" stroke-width="2"/>
+<rect x="704" y="211" width="175" height="54" rx="9" fill="#1B2A2C" stroke="#4E887F"/>
+<text x="791" y="231" text-anchor="middle" fill="#95DACB" font-family="monospace" font-size="12">DATA LAYER</text>
+<text x="791" y="249" text-anchor="middle" fill="#F0F5F2" font-family="monospace" font-size="14">PostgreSQL</text>
+<rect x="903" y="211" width="179" height="54" rx="9" fill="#292239" stroke="#766390"/>
+<text x="992" y="231" text-anchor="middle" fill="#C2A6EF" font-family="monospace" font-size="12">SYSTEMS LAYER</text>
+<text x="992" y="249" text-anchor="middle" fill="#F0ECF8" font-family="monospace" font-size="14">Rust / TCP</text>
 </svg>
