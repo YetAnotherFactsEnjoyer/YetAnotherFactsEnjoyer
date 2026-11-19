@@ -1,53 +1,109 @@
-# Raphaël Farge
+<div align="center">
 
-**Java Backend Developer · Spring Boot · Systems Engineering**
+<img src="./assets/backend-hero.svg" alt="Backend and systems engineering — Java, Spring Boot, Rust and PostgreSQL" width="100%" />
 
-I'm a third-year software engineering student at **EPITECH**, focused on building reliable backend services with **Java, Spring Boot, and PostgreSQL**. My experience spans client-facing web development, REST APIs, and lower-level networking in Rust.
+<br />
 
-**Based in:** Bordeaux, France  
-**Seeking:** Full-time backend/software engineering roles in Malaysia (Kuala Lumpur, Selangor, Johor Bahru)  
-**Availability:** From 29 March 2027 (mid-April preferred) · Relocation and visa sponsorship required  
-**Languages:** French (native), English (C1)
+### Java / Spring Boot · Backend & Systems Engineering
 
-## Selected projects
+Building APIs, data-driven applications, and networked systems.  
+Third-year **EPITECH** student with professional client-facing development experience.
 
-### [StockFlow](https://github.com/YetAnotherFactsEnjoyer/StockFlow) — Inventory & procurement platform
-**Java · Spring Boot · PostgreSQL · React · TypeScript**
+**Open to full-time backend roles in Malaysia** · Available from **March 2027** · Relocation / sponsorship required
 
-Building product and supplier REST APIs, relational data models, and a React workspace. Currently working on frontend–backend integration and inventory consistency. *In progress.*
+<br />
 
-### Convertly — File conversion web application
-**Java · Spring Boot · React · TypeScript**
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,rust,ts,react,docker,linux&theme=dark&perline=8" alt="Java, Spring Boot, PostgreSQL, Rust, TypeScript, React, Docker and Linux" />
 
-Developed the web application and REST integration connecting file-conversion workflows to a separate conversion engine. Worked on file and format handling, API boundaries, and error states. *Team project.*
+</div>
 
-### [GhostPay](https://github.com/YetAnotherFactsEnjoyer/GhostPay) — Offline-first payment simulation
-**Java · Spring Boot · PostgreSQL · React · TypeScript · IndexedDB**
+---
 
-Built a simulated payment workflow that records transactions locally during API outages and synchronizes them using idempotent batch processing and conflict handling. *Simulation only; no real payments.*
+## Selected work
 
-### [Zappy](https://github.com/YetAnotherFactsEnjoyer/zappy) — Multiplayer TCP server
-**Rust · mio · TCP/IP · Non-blocking I/O**
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/YetAnotherFactsEnjoyer/StockFlow"><img src="./assets/stockflow.svg" alt="StockFlow — inventory and procurement platform" width="100%" /></a>
 
-Developed an event-driven game server supporting multiple network clients, protocol parsing, scheduled commands, and shared game-world state. *Team project; focused on the server.*
+**[StockFlow](https://github.com/YetAnotherFactsEnjoyer/StockFlow)** · *In progress*
+
+Spring Boot / PostgreSQL backend for product and supplier workflows, with a React workspace. Working on API integration and inventory consistency.
+
+`Java` `Spring Boot` `PostgreSQL` `React`
+</td>
+<td width="50%" valign="top">
+<img src="./assets/convertly.svg" alt="Convertly — file conversion platform" width="100%" />
+
+**Convertly** · *Team project*
+
+React / TypeScript file-conversion interface and Spring Boot REST integration with a separate conversion engine. Worked on web workflows, format handling and API boundaries.
+
+`Java` `Spring Boot` `React` `TypeScript`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/YetAnotherFactsEnjoyer/GhostPay"><img src="./assets/ghostpay.svg" alt="GhostPay — offline-first payment simulation" width="100%" /></a>
+
+**[GhostPay](https://github.com/YetAnotherFactsEnjoyer/GhostPay)** · *Simulation only*
+
+Offline-first payment simulation with local transaction capture and idempotent synchronization after connectivity returns. No real money involved.
+
+`Java` `Spring Boot` `PostgreSQL` `TypeScript`
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/YetAnotherFactsEnjoyer/zappy"><img src="./assets/zappy.svg" alt="Zappy — multiplayer TCP server" width="100%" /></a>
+
+**[Zappy](https://github.com/YetAnotherFactsEnjoyer/zappy)** · *Team project*
+
+Built the Rust side of an event-driven multiplayer TCP server: non-blocking socket polling, protocol parsing, queued commands and shared game state.
+
+`Rust` `mio` `TCP/IP` `Non-blocking I/O`
+</td>
+</tr>
+</table>
 
 ## Professional experience
 
-**Junior Web Developer Intern — Anybug** · September–December 2025
+**Junior Web Developer Intern · Anybug** — Sep–Dec 2025
 
-- Primary developer of an AI photo-analysis and image-generation application used by façade-renovation businesses; implemented its **Symfony backend**, administration interface, frontend, and OpenAI integration.
-- Contributed to museum experiences, e-commerce back-office workflows, and client-facing demonstrations and acceptance testing.
+Primary developer of a business-used AI photo-analysis and image-generation application, covering its Symfony backend, administration interface, frontend and OpenAI integration. Also contributed to museum experiences and e-commerce back-office workflows, with client demonstrations and acceptance testing.
 
-## Technical skills
+## Engineering toolkit
 
-| Area | Technologies |
-| --- | --- |
-| **Backend** | Java 21, Spring Boot, Spring Security, Spring Data JPA, REST APIs, JWT, PHP, Symfony |
-| **Data & testing** | PostgreSQL, SQL, Flyway, JUnit, integration testing |
-| **Frontend & tooling** | React, TypeScript, JavaScript, Docker, Git, Linux, Gradle |
-| **Systems** | Rust, C, C++, TCP/IP, non-blocking I/O, event loops |
+<div align="center">
 
-## Contact
+**Backend & APIs**
 
-**Email:** [raphael.farge24@gmail.com](mailto:raphael.farge24@gmail.com)  
-**GitHub:** [YetAnotherFactsEnjoyer](https://github.com/YetAnotherFactsEnjoyer)
+<img src="https://skillicons.dev/icons?i=java,spring,php,symfony&theme=dark" alt="Java, Spring Boot, PHP and Symfony" />
+
+Java 21 · Spring Security · Spring Data JPA · REST APIs · JWT
+
+**Databases & delivery**
+
+<img src="https://skillicons.dev/icons?i=postgres,docker,git,linux,gradle&theme=dark" alt="PostgreSQL, Docker, Git, Linux and Gradle" />
+
+SQL · Flyway · JUnit · Integration testing
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,html,css&theme=dark" alt="TypeScript, JavaScript, React, HTML and CSS" />
+
+**Systems**
+
+<img src="https://skillicons.dev/icons?i=rust,c,cpp&theme=dark" alt="Rust, C and C++" />
+
+TCP/IP · Event loops · Non-blocking I/O · Protocol parsing
+
+</div>
+
+---
+
+<div align="center">
+
+**Build thoughtfully. Test failure paths. Keep learning.**
+
+[Explore repositories](https://github.com/YetAnotherFactsEnjoyer?tab=repositories)
+
+</div>
