@@ -11,6 +11,57 @@ I care about **understanding what I build**, keeping code maintainable, and test
 
 ---
 
+## Selected projects
+
+<table>
+<tr>
+  <td width="31%" valign="top">
+    <h3><a href="https://github.com/YetAnotherFactsEnjoyer/StockFlow">StockFlow</a></h3>
+    <p><b>Inventory & procurement · In progress</b></p>
+  </td>
+  <td width="69%" valign="top">
+    <p>Spring Boot and PostgreSQL APIs for products and suppliers with a React workspace. Working on API integration and inventory consistency.</p>
+    <p><sub>Java · Spring Boot · PostgreSQL · React</sub></p>
+  </td>
+</tr>
+<tr>
+  <td width="31%" valign="top">
+    <h3>Convertly</h3>
+    <p><b>File conversion application · Team project</b></p>
+  </td>
+  <td width="69%" valign="top">
+    <p>Developed the React/TypeScript web application and Spring Boot REST integration connecting conversion workflows to a separate engine.</p>
+    <p><sub>Java · Spring Boot · React · TypeScript</sub></p>
+  </td>
+</tr>
+<tr>
+  <td width="31%" valign="top">
+    <h3><a href="https://github.com/YetAnotherFactsEnjoyer/GhostPay">GhostPay</a></h3>
+    <p><b>Offline-first payment simulation</b></p>
+  </td>
+  <td width="69%" valign="top">
+    <p>Local transaction capture during connectivity outages and idempotent batch synchronization. Simulation only; no real payments.</p>
+    <p><sub>Java · Spring Boot · PostgreSQL · TypeScript</sub></p>
+  </td>
+</tr>
+<tr>
+  <td width="31%" valign="top">
+    <h3><a href="https://github.com/YetAnotherFactsEnjoyer/zappy">Zappy</a></h3>
+    <p><b>Multiplayer TCP server · Team project</b></p>
+  </td>
+  <td width="69%" valign="top">
+    <p>Developed the Rust server using non-blocking socket polling, protocol parsing, queued commands, and shared game state.</p>
+    <p><sub>Rust · mio · TCP/IP · Non-blocking I/O</sub></p>
+  </td>
+</tr>
+</table>
+
+## Professional experience
+
+**Junior Web Developer Intern · Anybug** — Sep–Dec 2025
+
+Primary developer of a business-used AI photo-analysis and image-generation application, including its **Symfony backend**, administration interface, frontend and OpenAI integration. Also contributed to museum experiences, e-commerce back-office workflows, and client demonstrations.
+
 ## Technologies I work with
 
 <div align="center">
@@ -50,52 +101,10 @@ I care about **understanding what I build**, keeping code maintainable, and test
   </table>
 </div>
 
-## Selected projects
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <a href="https://github.com/YetAnotherFactsEnjoyer/StockFlow"><img src="./assets/stockflow.svg" alt="StockFlow: illustrated inventory application showing products, inventory counts and stock levels" width="100%"/></a>
-      <h3><a href="https://github.com/YetAnotherFactsEnjoyer/StockFlow">StockFlow</a></h3>
-      <p><b>Inventory & procurement · In progress</b></p>
-      <p>Spring Boot and PostgreSQL APIs for products and suppliers with a React workspace. Working on API integration and inventory consistency.</p>
-      <p><sub>Java · Spring Boot · PostgreSQL · React</sub></p>
-    </td>
-    <td valign="top" width="50%">
-      <img src="./assets/convertly.svg" alt="Convertly: file conversion visual showing source file, API and converted output" width="100%"/>
-      <h3>Convertly</h3>
-      <p><b>File conversion application · Team project</b></p>
-      <p>Developed the React/TypeScript web application and Spring Boot REST integration connecting conversion workflows to a separate engine.</p>
-      <p><sub>Java · Spring Boot · React · TypeScript</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <a href="https://github.com/YetAnotherFactsEnjoyer/GhostPay"><img src="./assets/ghostpay.svg" alt="GhostPay: offline terminal, sync queue and backend synchronization architecture" width="100%"/></a>
-      <h3><a href="https://github.com/YetAnotherFactsEnjoyer/GhostPay">GhostPay</a></h3>
-      <p><b>Offline-first payment simulation</b></p>
-      <p>Local transaction capture during connectivity outages and idempotent batch synchronization. Simulation only; no real payments.</p>
-      <p><sub>Java · Spring Boot · PostgreSQL · TypeScript</sub></p>
-    </td>
-    <td valign="top" width="50%">
-      <a href="https://github.com/YetAnotherFactsEnjoyer/zappy"><img src="./assets/zappy.svg" alt="Zappy: Rust event-loop TCP server connected to multiplayer clients" width="100%"/></a>
-      <h3><a href="https://github.com/YetAnotherFactsEnjoyer/zappy">Zappy</a></h3>
-      <p><b>Multiplayer TCP server · Team project</b></p>
-      <p>Developed the Rust server using non-blocking socket polling, protocol parsing, queued commands, and shared game state.</p>
-      <p><sub>Rust · mio · TCP/IP · Non-blocking I/O</sub></p>
-    </td>
-  </tr>
-</table>
-
-## Professional experience
-
-**Junior Web Developer Intern · Anybug** — Sep–Dec 2025
-
-Primary developer of a business-used AI photo-analysis and image-generation application, including its **Symfony backend**, administration interface, frontend and OpenAI integration. Also contributed to museum experiences, e-commerce back-office workflows, and client demonstrations.
-
 ---
 
 <div align="center">
   <b>Build thoughtfully. Test the failure paths. Keep learning.</b>
   <p><a href="https://github.com/YetAnotherFactsEnjoyer?tab=repositories">Explore repositories</a></p>
 </div>
+
