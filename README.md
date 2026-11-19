@@ -1,5 +1,3 @@
-# Raphaël Farge
-
 **Java Backend Developer · Spring Boot · Systems Engineering**
 
 I'm a third-year software engineering student at **EPITECH**, focused on building reliable backend services with **Java, Spring Boot, and PostgreSQL**. My experience spans client-facing web development, REST APIs, and lower-level networking in Rust.
@@ -20,7 +18,15 @@ Building product and supplier REST APIs, relational data models, and a React wor
 **Java · Spring Boot · React · TypeScript**
 
 Developed the web application and REST integration connecting file-conversion workflows to a separate conversion engine. Worked on file and format handling, API boundaries, and error states. *Team project.*
+Java Backend Developer · Spring Boot · Systems Engineering
 
+I'm a third-year software engineering student at EPITECH, focused on building reliable backend services with Java, Spring Boot, and PostgreSQL. My experience spans client-facing web development, REST APIs, and lower-level networking in Rust.
+
+Based in: Bordeaux, France
+Seeking: Full-time backend/software engineering roles in Malaysia (Kuala Lumpur, Selangor, Johor Bahru)
+Availability: From 29 March 2027 (mid-April preferred) · Relocation and visa sponsorship required
+Languages: French (native), English (C1)
+Selected projects
 ### [GhostPay](https://github.com/YetAnotherFactsEnjoyer/GhostPay) — Offline-first payment simulation
 **Java · Spring Boot · PostgreSQL · React · TypeScript · IndexedDB**
 
@@ -46,8 +52,3 @@ Developed an event-driven game server supporting multiple network clients, proto
 | **Data & testing** | PostgreSQL, SQL, Flyway, JUnit, integration testing |
 | **Frontend & tooling** | React, TypeScript, JavaScript, Docker, Git, Linux, Gradle |
 | **Systems** | Rust, C, C++, TCP/IP, non-blocking I/O, event loops |
-
-## Contact
-
-**Email:** [raphael.farge24@gmail.com](mailto:raphael.farge24@gmail.com)  
-**GitHub:** [YetAnotherFactsEnjoyer](https://github.com/YetAnotherFactsEnjoyer)
