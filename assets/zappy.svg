@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="216" viewBox="0 0 580 216" role="img" aria-labelledby="t d">
+  <title id="t">Zappy</title>
+  <desc id="d">Rust non-blocking multiplayer TCP server project.</desc>
+  <rect width="580" height="216" rx="15" fill="#11131B"/>
+  <rect width="6" height="216" fill="#EF9B77"/>
+  <text x="31" y="56" fill="#F5F5FA" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="800" letter-spacing="-0.5">ZAPPY</text>
+  <text x="32" y="92" fill="#A8A9BD" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="650" letter-spacing="0.8">MULTIPLAYER TCP SERVER</text>
+  <rect x="31" y="136" width="470" height="1" fill="#343344"/>
+  <text x="32" y="165" fill="#EF9B77" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="0.5">RUST  •  MIO  •  TCP/IP</text>
+  <g fill="none" stroke="#B3A9B1" stroke-width="2">
+    <path d="M506 44 L546 75 L526 124 L484 110 L506 44"/>
+    <path d="M506 44 L484 110 M546 75 L484 110"/>
+  </g>
+  <g fill="#EF9B77"><circle cx="506" cy="44" r="6"/><circle cx="546" cy="75" r="6"/><circle cx="526" cy="124" r="6"/><circle cx="484" cy="110" r="6"/></g>
+</svg>
