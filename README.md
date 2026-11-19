@@ -1,9 +1,30 @@
-<div align="center">
-  <img src="./assets/backend-hero.svg" alt="Backend and systems engineering: Java and Spring Boot APIs, PostgreSQL and Rust networking" width="100%" />
-  <p><b>Java / Spring Boot Developer &nbsp;·&nbsp; Backend & Systems Engineering</b></p>
-  <p>Building REST APIs, data-driven applications, and networked systems.<br/>Third-year EPITECH student with professional client-facing development experience.</p>
-  <p><b>Open to backend opportunities in Malaysia</b> &nbsp;·&nbsp; Available March 2027 &nbsp;·&nbsp; Relocation and sponsorship required</p>
-</div>
+~~~text
+  +------------------------------------------------------+
+  |  dev@terminal:~/engineering                  [online] |
+  +------------------------------------------------------+
+  |                                                      |
+  |  $ whoami                                            |
+  |  > backend-focused developer                         |
+  |                                                      |
+  |  $ ./stack --focus                                   |
+  |  > Java 21  /  Spring Boot  /  PostgreSQL             |
+  |  > Rust     /  TCP-IP       /  Linux                  |
+  |                                                      |
+  |  $ cat approach.txt                                  |
+  |  > Build it. Understand it. Make it reliable.        |
+  +------------------------------------------------------+
+~~~
+
+## Hey, I'm [@YetAnotherFactsEnjoyer](https://github.com/YetAnotherFactsEnjoyer) 👋
+
+I'm a **third-year software engineering student at EPITECH**, based in France and focused on **Java / Spring Boot backend development**. I like working on the parts of software that need to hold together: APIs, business rules, databases, and the systems underneath them.
+
+During my internship at **Anybug**, I was the primary developer of an AI-powered application used by businesses, building its **Symfony backend, administration interface, frontend, and OpenAI integration**. Outside of professional work, I build with **Spring Boot, PostgreSQL, React, and Rust**—from inventory and offline-first applications to an event-driven TCP game server.
+
+I care about **understanding what I build**, keeping code maintainable, and testing the paths where things can go wrong.
+
+> **Currently:** Deepening my backend engineering skills and building practical projects.  
+> **Next:** Seeking full-time backend opportunities in **Malaysia** from **March 2027**; relocation and visa sponsorship required.
 
 ---
 
