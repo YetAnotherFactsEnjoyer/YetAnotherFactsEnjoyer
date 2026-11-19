@@ -1,54 +1,110 @@
-**Java Backend Developer · Spring Boot · Systems Engineering**
+## Hey, I'm [@YetAnotherFactsEnjoyer](https://github.com/YetAnotherFactsEnjoyer) 👋
 
-I'm a third-year software engineering student at **EPITECH**, focused on building reliable backend services with **Java, Spring Boot, and PostgreSQL**. My experience spans client-facing web development, REST APIs, and lower-level networking in Rust.
+I'm a **third-year software engineering student at EPITECH**, based in France and focused on **Java / Spring Boot backend development**. I like working on the parts of software that need to hold together: APIs, business rules, databases, and the systems underneath them.
 
-**Based in:** Bordeaux, France  
-**Seeking:** Full-time backend/software engineering roles in Malaysia (Kuala Lumpur, Selangor, Johor Bahru)  
-**Availability:** From 29 March 2027 (mid-April preferred) · Relocation and visa sponsorship required  
-**Languages:** French (native), English (C1)
+During my internship at **Anybug**, I was the primary developer of an AI-powered application used by businesses, building its **Symfony backend, administration interface, frontend, and OpenAI integration**. Outside of professional work, I build with **Spring Boot, PostgreSQL, React, and Rust**—from inventory and offline-first applications to an event-driven TCP game server.
+
+I care about **understanding what I build**, keeping code maintainable, and testing the paths where things can go wrong.
+
+> **Currently:** Deepening my backend engineering skills and building practical projects.  
+> **Next:** Seeking full-time backend opportunities in **Malaysia** from **March 2027**; relocation and visa sponsorship required.
+
+---
 
 ## Selected projects
 
-### [StockFlow](https://github.com/YetAnotherFactsEnjoyer/StockFlow) — Inventory & procurement platform
-**Java · Spring Boot · PostgreSQL · React · TypeScript**
-
-Building product and supplier REST APIs, relational data models, and a React workspace. Currently working on frontend–backend integration and inventory consistency. *In progress.*
-
-### Convertly — File conversion web application
-**Java · Spring Boot · React · TypeScript**
-
-Developed the web application and REST integration connecting file-conversion workflows to a separate conversion engine. Worked on file and format handling, API boundaries, and error states. *Team project.*
-Java Backend Developer · Spring Boot · Systems Engineering
-
-I'm a third-year software engineering student at EPITECH, focused on building reliable backend services with Java, Spring Boot, and PostgreSQL. My experience spans client-facing web development, REST APIs, and lower-level networking in Rust.
-
-Based in: Bordeaux, France
-Seeking: Full-time backend/software engineering roles in Malaysia (Kuala Lumpur, Selangor, Johor Bahru)
-Availability: From 29 March 2027 (mid-April preferred) · Relocation and visa sponsorship required
-Languages: French (native), English (C1)
-Selected projects
-### [GhostPay](https://github.com/YetAnotherFactsEnjoyer/GhostPay) — Offline-first payment simulation
-**Java · Spring Boot · PostgreSQL · React · TypeScript · IndexedDB**
-
-Built a simulated payment workflow that records transactions locally during API outages and synchronizes them using idempotent batch processing and conflict handling. *Simulation only; no real payments.*
-
-### [Zappy](https://github.com/YetAnotherFactsEnjoyer/zappy) — Multiplayer TCP server
-**Rust · mio · TCP/IP · Non-blocking I/O**
-
-Developed an event-driven game server supporting multiple network clients, protocol parsing, scheduled commands, and shared game-world state. *Team project; focused on the server.*
+<table>
+<tr>
+  <td width="31%" valign="top">
+    <h3><a href="https://github.com/YetAnotherFactsEnjoyer/StockFlow">StockFlow</a></h3>
+    <p><b>Inventory & procurement · In progress</b></p>
+  </td>
+  <td width="69%" valign="top">
+    <p>Spring Boot and PostgreSQL APIs for products and suppliers with a React workspace. Working on API integration and inventory consistency.</p>
+    <p><sub>Java · Spring Boot · PostgreSQL · React</sub></p>
+  </td>
+</tr>
+<tr>
+  <td width="31%" valign="top">
+    <h3>Convertly</h3>
+    <p><b>File conversion application · Team project</b></p>
+  </td>
+  <td width="69%" valign="top">
+    <p>Developed the React/TypeScript web application and Spring Boot REST integration connecting conversion workflows to a separate engine.</p>
+    <p><sub>Java · Spring Boot · React · TypeScript</sub></p>
+  </td>
+</tr>
+<tr>
+  <td width="31%" valign="top">
+    <h3><a href="https://github.com/YetAnotherFactsEnjoyer/GhostPay">GhostPay</a></h3>
+    <p><b>Offline-first payment simulation</b></p>
+  </td>
+  <td width="69%" valign="top">
+    <p>Local transaction capture during connectivity outages and idempotent batch synchronization. Simulation only; no real payments.</p>
+    <p><sub>Java · Spring Boot · PostgreSQL · TypeScript</sub></p>
+  </td>
+</tr>
+<tr>
+  <td width="31%" valign="top">
+    <h3><a href="https://github.com/YetAnotherFactsEnjoyer/zappy">Zappy</a></h3>
+    <p><b>Multiplayer TCP server · Team project</b></p>
+  </td>
+  <td width="69%" valign="top">
+    <p>Developed the Rust server using non-blocking socket polling, protocol parsing, queued commands, and shared game state.</p>
+    <p><sub>Rust · mio · TCP/IP · Non-blocking I/O</sub></p>
+  </td>
+</tr>
+</table>
 
 ## Professional experience
 
-**Junior Web Developer Intern — Anybug** · September–December 2025
+**Junior Web Developer Intern · Anybug** — Sep–Dec 2025
 
-- Primary developer of an AI photo-analysis and image-generation application used by façade-renovation businesses; implemented its **Symfony backend**, administration interface, frontend, and OpenAI integration.
-- Contributed to museum experiences, e-commerce back-office workflows, and client-facing demonstrations and acceptance testing.
+Primary developer of a business-used AI photo-analysis and image-generation application, including its **Symfony backend**, administration interface, frontend and OpenAI integration. Also contributed to museum experiences, e-commerce back-office workflows, and client demonstrations.
 
-## Technical skills
+## Technologies I work with
 
-| Area | Technologies |
-| --- | --- |
-| **Backend** | Java 21, Spring Boot, Spring Security, Spring Data JPA, REST APIs, JWT, PHP, Symfony |
-| **Data & testing** | PostgreSQL, SQL, Flyway, JUnit, integration testing |
-| **Frontend & tooling** | React, TypeScript, JavaScript, Docker, Git, Linux, Gradle |
-| **Systems** | Rust, C, C++, TCP/IP, non-blocking I/O, event loops |
+<div align="center">
+  <p><b>Backend-first, with full-stack delivery and systems programming experience.</b></p>
+  <table>
+    <tr>
+      <td align="center" valign="top" width="50%">
+<h3>01 / Backend</h3>
+<p>Java · Spring Boot · PHP</p>
+<table><tr><td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="49" height="49" /><br/><sub><b>Java</b></sub></td><td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" width="49" height="49" /><br/><sub><b>Spring</b></sub></td><td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="49" height="49" /><br/><sub><b>PHP</b></sub></td></tr><tr><td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" alt="Symfony" width="49" height="49" /><br/><sub><b>Symfony</b></sub></td><td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" alt="Gradle" width="49" height="49" /><br/><sub><b>Gradle</b></sub></td><td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="49" height="49" /><br/><sub><b>PostgreSQL</b></sub></td></tr></table>
+</td>
+      <td align="center" valign="top" width="50%">
+<h3>02 / Frontend</h3>
+<p>Web application interfaces</p>
+<table><tr><td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="49" height="49" /><br/><sub><b>TypeScript</b></sub></td><td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="49" height="49" /><br/><sub><b>React</b></sub></td><td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="49" height="49" /><br/><sub><b>JavaScript</b></sub></td></tr><tr><td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="49" height="49" /><br/><sub><b>HTML5</b></sub></td><td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="49" height="49" /><br/><sub><b>CSS3</b></sub></td><td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="49" height="49" /><br/><sub><b>Node.js</b></sub></td></tr></table>
+</td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="50%">
+<h3>03 / Systems</h3>
+<p>Networking & lower-level programming</p>
+<table><tr><td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="49" height="49" /><br/><sub><b>Rust</b></sub></td><td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="49" height="49" /><br/><sub><b>C</b></sub></td><td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="49" height="49" /><br/><sub><b>C++</b></sub></td></tr><tr><td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="49" height="49" /><br/><sub><b>Linux</b></sub></td><td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="49" height="49" /><br/><sub><b>Git</b></sub></td><td align="center" width="33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="49" height="49" /><br/><sub><b>Docker</b></sub></td></tr></table>
+</td>
+      <td align="center" valign="top" width="50%">
+        <h3>04 / Engineering practices</h3>
+        <p>What I focus on when building software</p>
+        <p align="left">
+          <b>APIs & data</b><br/>
+          REST · Spring Security · Spring Data JPA · SQL · Flyway<br/><br/>
+          <b>Quality & delivery</b><br/>
+          JUnit · Integration tests · Validation · Git · Docker<br/><br/>
+          <b>Networked systems</b><br/>
+          TCP/IP · Non-blocking I/O · Event loops · Protocol parsing
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <b>Build thoughtfully. Test the failure paths. Keep learning.</b>
+  <p><a href="https://github.com/YetAnotherFactsEnjoyer?tab=repositories">Explore repositories</a></p>
+</div>
+

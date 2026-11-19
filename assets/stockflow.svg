@@ -1,1 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="580" height="216" viewBox="0 0 580 216" role="img"><rect x="0" y="0" width="580" height="216" rx="15" fill="#11131B"/><rect x="0" y="0" width="6" height="216" rx="0" fill="#7FC6BA"/><text x="31" y="56" fill="#F5F5FA" font-family="DejaVu Sans,Arial,sans-serif" font-size="30" font-weight="800" letter-spacing="-0.5">STOCKFLOW</text><text x="32" y="92" fill="#A8A9BD" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="650" letter-spacing="0.8">INVENTORY &amp; PROCUREMENT</text><rect x="31" y="136" width="470" height="1" rx="0" fill="#343344"/><text x="32" y="165" fill="#7FC6BA" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="0.5">SPRING BOOT  •  POSTGRESQL  •  REACT</text><text x="32" y="194" fill="#70768D" font-family="DejaVu Sans,Arial,sans-serif" font-size="11" font-weight="650" letter-spacing="0.8">ENGINEERING PROJECT</text><circle cx="496" cy="71" r="52" fill="#1B1E29" stroke="#343344" stroke-width="1.5"/><rect x="472" y="47" width="18" height="18" rx="3" fill="#20312F" stroke="#7FC6BA" stroke-width="1.8"/><rect x="495" y="47" width="18" height="18" rx="3" fill="#20312F" stroke="#7FC6BA" stroke-width="1.8"/><rect x="472" y="70" width="18" height="18" rx="3" fill="#20312F" stroke="#7FC6BA" stroke-width="1.8"/><rect x="495" y="70" width="18" height="18" rx="3" fill="#20312F" stroke="#7FC6BA" stroke-width="1.8"/><line x1="466" y1="99" x2="523" y2="99" stroke="#7FC6BA" stroke-width="2.5" stroke-linecap="round"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="285" viewBox="0 0 580 285" role="img" aria-labelledby="title desc">
+<title id="title">StockFlow inventory platform</title><desc id="desc">Inventory management interface illustration with product table, stock levels and inventory chart.</desc>
+<rect width="580" height="285" rx="17" fill="#0E1920"/>
+<rect width="580" height="7" rx="4" fill="#65D8BB"/>
+<text x="26" y="52" fill="#F0FCF7" font-family="Arial,sans-serif" font-size="28" font-weight="800">STOCKFLOW</text>
+<text x="27" y="75" fill="#8AABA8" font-family="monospace" font-size="12" letter-spacing="1.2">INVENTORY / PROCUREMENT</text>
+<rect x="25" y="97" width="530" height="157" rx="12" fill="#172B32" stroke="#345359"/>
+<rect x="25" y="97" width="103" height="157" rx="12" fill="#20363D"/>
+<text x="42" y="120" fill="#92AEAC" font-family="Arial,sans-serif" font-size="11">WORKSPACE</text>
+<rect x="35" y="137" width="82" height="27" rx="6" fill="#365950"/><text x="46" y="155" fill="#C8FCEB" font-family="Arial,sans-serif" font-size="12" font-weight="700">Inventory</text>
+<text x="46" y="184" fill="#A2B7B8" font-family="Arial,sans-serif" font-size="12">Suppliers</text>
+<text x="46" y="211" fill="#A2B7B8" font-family="Arial,sans-serif" font-size="12">Orders</text>
+<text x="150" y="126" fill="#D9F2EE" font-family="Arial,sans-serif" font-size="15" font-weight="700">Product inventory</text>
+<rect x="425" y="113" width="109" height="26" rx="6" fill="#64D7BB"/><text x="479" y="130" text-anchor="middle" fill="#12362C" font-family="Arial,sans-serif" font-size="11" font-weight="700">+ New item</text>
+<rect x="146" y="146" width="388" height="23" rx="4" fill="#253B42"/><text x="157" y="161" fill="#98AFAF" font-family="monospace" font-size="10">PRODUCT</text><text x="353" y="161" fill="#98AFAF" font-family="monospace" font-size="10">STOCK LEVEL</text>
+<g font-family="Arial,sans-serif" font-size="12" fill="#D0E6E1">
+<text x="157" y="190">Item A</text><text x="157" y="219">Item B</text><text x="157" y="245">Item C</text>
+</g>
+<g fill="#344D54"><rect x="350" y="178" width="148" height="9" rx="4"/><rect x="350" y="207" width="148" height="9" rx="4"/><rect x="350" y="235" width="148" height="9" rx="4"/></g>
+<rect x="350" y="178" width="111" height="9" rx="4" fill="#65D8BB"/><rect x="350" y="207" width="69" height="9" rx="4" fill="#9AC3C0"/><rect x="350" y="235" width="130" height="9" rx="4" fill="#65D8BB"/>
+<text x="27" y="274" fill="#7CBFB0" font-family="monospace" font-size="10">SPRING BOOT  /  POSTGRESQL  /  REACT</text>
+</svg>

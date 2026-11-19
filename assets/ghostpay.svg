@@ -1,1 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="580" height="216" viewBox="0 0 580 216" role="img"><rect x="0" y="0" width="580" height="216" rx="15" fill="#11131B"/><rect x="0" y="0" width="6" height="216" rx="0" fill="#A889FF"/><text x="31" y="56" fill="#F5F5FA" font-family="DejaVu Sans,Arial,sans-serif" font-size="30" font-weight="800" letter-spacing="-0.5">GHOSTPAY</text><text x="32" y="92" fill="#A8A9BD" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="650" letter-spacing="0.8">OFFLINE-FIRST PAYMENT SIMULATOR</text><rect x="31" y="136" width="470" height="1" rx="0" fill="#343344"/><text x="32" y="165" fill="#A889FF" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="0.5">JAVA / SPRING BOOT  •  REACT / TS</text><text x="32" y="194" fill="#70768D" font-family="DejaVu Sans,Arial,sans-serif" font-size="11" font-weight="650" letter-spacing="0.8">ENGINEERING PROJECT</text><circle cx="496" cy="71" r="52" fill="#1B1E29" stroke="#343344" stroke-width="1.5"/><rect x="467" y="54" width="58" height="39" rx="7" fill="#29233D" stroke="#A889FF" stroke-width="2"/><line x1="475" y1="64" x2="499" y2="64" stroke="#A889FF" stroke-width="2.5" stroke-linecap="round"/><line x1="475" y1="82" x2="485" y2="82" stroke="#CDD0E5" stroke-width="2" stroke-linecap="round"/><path d="M 512 82 L 519 82 L 519 75" stroke="#A889FF" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="285" viewBox="0 0 580 285" role="img" aria-labelledby="title desc">
+<title id="title">GhostPay offline-first payments simulation</title><desc id="desc">Offline terminal queues a simulated payment and later synchronizes idempotently with the API.</desc>
+<rect width="580" height="285" rx="17" fill="#151322"/>
+<rect width="580" height="7" rx="4" fill="#AD95F8"/>
+<text x="26" y="52" fill="#F8F3FF" font-family="Arial,sans-serif" font-size="28" font-weight="800">GHOSTPAY</text>
+<text x="27" y="75" fill="#ADA7C2" font-family="monospace" font-size="12" letter-spacing="1.1">OFFLINE-FIRST / PAYMENT SIMULATION</text>
+<rect x="28" y="103" width="524" height="143" rx="13" fill="#211E36" stroke="#423B5D"/>
+<rect x="55" y="117" width="103" height="115" rx="12" fill="#2C2847" stroke="#76669B"/>
+<rect x="66" y="132" width="80" height="14" rx="4" fill="#595175"/>
+<text x="106" y="144" text-anchor="middle" fill="#F5EFFF" font-family="monospace" font-size="11">TERMINAL</text>
+<rect x="67" y="159" width="78" height="31" rx="6" fill="#3B345A"/>
+<text x="106" y="179" text-anchor="middle" fill="#D4C6FF" font-family="Arial,sans-serif" font-size="13" font-weight="700">Saved</text>
+<circle cx="106" cy="208" r="7" fill="#EABF7C"/><text x="118" y="213" fill="#DAC3A9" font-family="monospace" font-size="10">OFFLINE</text>
+<path d="M162 173 H235" stroke="#B99EF7" stroke-width="3" stroke-dasharray="6 5"/><path d="M229 167 L235 173 L229 179" fill="none" stroke="#B99EF7" stroke-width="3"/>
+<rect x="239" y="137" width="109" height="71" rx="11" fill="#392F57" stroke="#937BCB"/>
+<text x="294" y="161" fill="#E0D7FF" font-family="Arial,sans-serif" font-size="12" font-weight="700" text-anchor="middle">SYNC QUEUE</text>
+<text x="294" y="183" fill="#B7A8EC" font-family="monospace" font-size="11" text-anchor="middle">IDEMPOTENT</text>
+<path d="M352 173 H424 M418 167 L424 173 L418 179" stroke="#B99EF7" stroke-width="3" fill="none"/>
+<rect x="429" y="122" width="93" height="102" rx="10" fill="#2A2948" stroke="#8374BB"/>
+<path d="M448 143 H503 M448 158 H503 M448 173 H503 M448 188 H503" stroke="#8B80B5" stroke-width="3"/>
+<circle cx="450" cy="143" r="3" fill="#D1C6FF"/><circle cx="450" cy="158" r="3" fill="#D1C6FF"/><circle cx="450" cy="173" r="3" fill="#D1C6FF"/><circle cx="450" cy="188" r="3" fill="#D1C6FF"/>
+<text x="476" y="210" fill="#D4C5FF" font-family="monospace" font-size="10" text-anchor="middle">BACKEND</text>
+<text x="27" y="273" fill="#B6A6E8" font-family="monospace" font-size="10">JAVA / SPRING BOOT / INDEXEDDB</text>
+</svg>
